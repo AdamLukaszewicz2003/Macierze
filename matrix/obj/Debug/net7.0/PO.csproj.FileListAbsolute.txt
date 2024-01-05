@@ -1,0 +1,15 @@
+/Users/adamlukaszewicz/Desktop/po/PO/folder bez nazwy/folder bez nazwy/bin/Debug/net7.0/PO
+/Users/adamlukaszewicz/Desktop/po/PO/folder bez nazwy/folder bez nazwy/bin/Debug/net7.0/PO.deps.json
+/Users/adamlukaszewicz/Desktop/po/PO/folder bez nazwy/folder bez nazwy/bin/Debug/net7.0/PO.runtimeconfig.json
+/Users/adamlukaszewicz/Desktop/po/PO/folder bez nazwy/folder bez nazwy/bin/Debug/net7.0/PO.dll
+/Users/adamlukaszewicz/Desktop/po/PO/folder bez nazwy/folder bez nazwy/bin/Debug/net7.0/PO.pdb
+/Users/adamlukaszewicz/Desktop/po/PO/folder bez nazwy/folder bez nazwy/obj/Debug/net7.0/PO.csproj.AssemblyReference.cache
+/Users/adamlukaszewicz/Desktop/po/PO/folder bez nazwy/folder bez nazwy/obj/Debug/net7.0/PO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adamlukaszewicz/Desktop/po/PO/folder bez nazwy/folder bez nazwy/obj/Debug/net7.0/PO.AssemblyInfoInputs.cache
+/Users/adamlukaszewicz/Desktop/po/PO/folder bez nazwy/folder bez nazwy/obj/Debug/net7.0/PO.AssemblyInfo.cs
+/Users/adamlukaszewicz/Desktop/po/PO/folder bez nazwy/folder bez nazwy/obj/Debug/net7.0/PO.csproj.CoreCompileInputs.cache
+/Users/adamlukaszewicz/Desktop/po/PO/folder bez nazwy/folder bez nazwy/obj/Debug/net7.0/PO.dll
+/Users/adamlukaszewicz/Desktop/po/PO/folder bez nazwy/folder bez nazwy/obj/Debug/net7.0/refint/PO.dll
+/Users/adamlukaszewicz/Desktop/po/PO/folder bez nazwy/folder bez nazwy/obj/Debug/net7.0/PO.pdb
+/Users/adamlukaszewicz/Desktop/po/PO/folder bez nazwy/folder bez nazwy/obj/Debug/net7.0/PO.genruntimeconfig.cache
+/Users/adamlukaszewicz/Desktop/po/PO/folder bez nazwy/folder bez nazwy/obj/Debug/net7.0/ref/PO.dll
